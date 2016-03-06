@@ -1,0 +1,9 @@
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\Waifu2x WinWrap\Waifu2x WinWrap\bin\Debug\Waifu2x WinWrap.exe.config
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\Waifu2x WinWrap\Waifu2x WinWrap\bin\Debug\Waifu2x WinWrap.exe
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\Waifu2x WinWrap\Waifu2x WinWrap\bin\Debug\Waifu2x WinWrap.pdb
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\Waifu2x WinWrap\Waifu2x WinWrap\obj\Debug\Waifu2x WinWrap.csprojResolveAssemblyReference.cache
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\Waifu2x WinWrap\Waifu2x WinWrap\obj\Debug\Waifu2x_WinWrap.MainForm.resources
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\Waifu2x WinWrap\Waifu2x WinWrap\obj\Debug\Waifu2x WinWrap.csproj.GenerateResource.Cache
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\Waifu2x WinWrap\Waifu2x WinWrap\obj\Debug\Waifu2x WinWrap.exe
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\Waifu2x WinWrap\Waifu2x WinWrap\obj\Debug\Waifu2x WinWrap.pdb
+C:\Users\DVDLesher\Documents\SharpDevelop Projects\Waifu2x WinWrap\Waifu2x WinWrap\obj\Debug\Waifu2x_WinWrap.OutputForm.resources
